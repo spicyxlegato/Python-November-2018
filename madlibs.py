@@ -30,22 +30,3 @@ year = input("Enter a random year: ")
 
 print(story % (name, ad1, ad2, animal, food, verb, noun1, fruit, ad3, name,
                superhero, name, country, name, dessert, name, year, noun2))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
